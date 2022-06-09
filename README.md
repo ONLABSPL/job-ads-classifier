@@ -1,5 +1,6 @@
 # job-ads-classifier
-Repository with hierarchical classifier of 6 digits occupation codes (KZiS 2022)
+
+Repository with hierarchical classifier of 6 digits occupation codes ([KZiS 2022, as of 01.01.2022](https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci)).
 
 # Authors
 
