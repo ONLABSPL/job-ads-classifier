@@ -1,4 +1,6 @@
-# job-ads-classifier
+# Hierarchical classifier of job ads for job vacancy statistics
+
+![ksid](https://user-images.githubusercontent.com/3464669/172783621-0c30f10d-8ce7-4800-aea0-09c0f6a67094.png)
 
 Repository with hierarchical classifier of 6 digits occupation codes ([KZiS 2022, as of 01.01.2022](https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci)).
 
