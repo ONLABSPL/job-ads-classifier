@@ -18,6 +18,8 @@ See [intro notebook](job_classification_examples.ipynb)
 
 # Citation
 
+TBA
+
 # Funding
 
 + Cherniaiev Herman, Pater Robert, Wydmuch Marek work and research was conducted in the Educational Research Institute at Warsaw, and funded by the Polish Ministry of Education and Science within a project *Supporting IQS functioning and improvements in order to use its solutions in achieving the country's development strategy aims* (ZSK5). 
