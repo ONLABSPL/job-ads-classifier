@@ -14,6 +14,8 @@ Repository with hierarchical classifier of 6 digits occupation codes ([KZiS 2022
 
 # How to use
 
+See [intro notebook](job_classification_examples.ipynb)
+
 # Citation
 
 # Funding
