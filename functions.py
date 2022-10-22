@@ -51,3 +51,20 @@ def evaluate_levels(model, y, pred, pred_map, levels, plot_dist=None):
             plt.show()
 
     return results
+
+
+def try_parse_date(x):
+    for fmt in ('%Y-%m-%d', '%d.%m.%Y', '%d/%m/%Y'):
+        try:
+            return str(datetime.strptime(str(x), fmt).date())
+        except ValueError:
+            pass
+    return "1970-01-01"
+
+def extract_mapping(x):
+    x = [fix_class_str(x_i) for x_i in x]
+    if len(x[0]) == 0 or 'nan' in x[0]:
+        return (x[1], x[1])
+    else:
+        return (x[0], x[1])
+        
